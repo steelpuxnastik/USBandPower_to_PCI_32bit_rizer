@@ -1,0 +1,14 @@
+
+out/out.zip
+out/usbpcb-B_Cu.gbr
+out/usbpcb-B_Mask.gbr
+out/usbpcb-B_SilkS.gbr
+out/usbpcb-Edge_Cuts.gbr
+out/usbpcb-F_Cu.gbr
+out/usbpcb-F_Mask.gbr
+out/usbpcb-F_SilkS.gbr
+out/usbpcb-Margin.gbr
+out/usbpcb-NPTH-drl-drl_map.gbr
+out/usbpcb-NPTH-drl.gbr
+out/usbpcb-PTH-drl-drl_map.gbr
+out/usbpcb-PTH-drl.gbr
